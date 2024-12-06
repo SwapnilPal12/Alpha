@@ -11,7 +11,7 @@ const CarOverview = () => {
 
   return (
     <div className="car-overview">
-      <h2>Car Overview</h2>
+      <h2>Details</h2>
       <ul>
         <li>
           <strong>Model:</strong> {carDetails.model}
